@@ -1,4 +1,4 @@
-# 🌾 Farm Management System -mini project
+# 🌾 AgroConnect
 
 A simple **Farm Management System** built using **Python Flask** as part of a **Database Management System (DBMS) mini project**.  
 This web-based system helps farmers manage their crops, expenses, and income all in one place.
