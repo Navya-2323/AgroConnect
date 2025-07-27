@@ -37,18 +37,11 @@ This project demonstrates:
 ## 📂 Folder Structure
 
 Farm-management-system/
-│
- [main.py](main.py) 
-# Main Flask application
- [farmers.sql](farmers.sql) 
-# SQL file to create database tables
- [templates/](templates/) 
-# HTML templates (login, dashboard, forms)
- [static/](static/) 
-# Static files (CSS, images, JS)
- .gitignore
-# Git ignored files
- README.md
-# Project documentation
+main.py](main.py)Main Flask application
+[farmers.sql](farmers.sql) SQL file to create database tables
+[templates/](templates/) HTML templates (login, dashboard, forms)
+[static/](static/) Static files (CSS, images, JS)
+.gitignore  Git ignored files
+README.md Project documentation
 
 
