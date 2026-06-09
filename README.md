@@ -506,9 +506,9 @@ Through this project, the following concepts were implemented:
 
 **Navya M**
 
-Bachelor of Engineering (Computer Science)
+Bachelor of Engineering (Information Science)
 
-DBMS Mini Project
+Mini Project
 
 ---
 
